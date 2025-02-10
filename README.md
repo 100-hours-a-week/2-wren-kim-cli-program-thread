@@ -75,7 +75,4 @@
     - 올바른 날짜 형식(YYYY-MM-DD)을 입력하도록 검증하고, 잘못된 형식일 경우 "올바른 날짜 형식이 아닙니다." 경고를 출력한다.
 
 ## 4. 프로그램 시연
-
-
-https://github.com/user-attachments/assets/5ab17ebd-5576-4123-8e20-77665d438ed3
-
+https://github.com/user-attachments/assets/ff40e998-e695-45a1-b0b8-267070f94076
